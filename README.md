@@ -15,7 +15,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - Microsoft Azure (Virtual Machines/Compute)
 - Windows Remote Desktop
 - Various Command-Line Tools
-- Network Security Group Firewall Tools
+- Network Security Groups Firewall 
 - Various Network Protocols (ICMP, SSH, DNS, TCP)
 - Wireshark (Protocol Analyzer)
 
