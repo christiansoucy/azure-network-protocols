@@ -29,6 +29,6 @@ In this video demonstration, we observe various network traffic to and from Azur
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: Azure Virtual Machines, Wireshark, and Network Security Groups](https://www.youtube.com)
+- ### [YouTube: Azure Virtual Machines, Wireshark, and Network Security Groups](https://youtu.be/6xIAfw08dJ8)
 
 
